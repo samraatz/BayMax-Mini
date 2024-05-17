@@ -11,7 +11,6 @@
     <img src="https://github.com/samraatz/BayMax-Mini/blob/main/home.png" alt="home page width="500"></img>
 </p>
 </p>
-https://github.com/samraatz/BayMax-Mini/blob/main/g2.jpeg
 <h2>Table of Contents</h2>
 <ul>
     <li><a href="#overview">Overview</a></li>
@@ -25,8 +24,8 @@ https://github.com/samraatz/BayMax-Mini/blob/main/g2.jpeg
 <h2 id="overview">Overview</h2>
 <p>The goal of this project is to develop a medical assistance bot that is compact, rapid, and offers superior assistance compared to existing voice command help systems like Google. The project synthetically augments the dataset using a LLaMA 3B 7B 8-bit quantized model, ensuring comprehensive coverage of potential disease classifications and their associated responses.</p>
 <p>Below is an example of how where google fails, our model succeeds.</p>
-    <img src="https://github.com/samraatz/BayMax-Mini/blob/main/g1.png" alt="google query" width="250"></img>
-    <img src="https://github.com/samraatz/BayMax-Mini/blob/main/g2.png" alt="google response" width="250"></img>
+    <img src="https://github.com/samraatz/BayMax-Mini/blob/main/g1.jpeg" alt="google query" width="250"></img>
+    <img src="https://github.com/samraatz/BayMax-Mini/blob/main/g2.jpeg" alt="google response" width="250"></img>
     <img src="https://github.com/samraatz/BayMax-Mini/blob/main/first%20aid-response.png" alt="our response" width="500"></img>
 
 <p>The intent dataset was initially sourced from <a href="https://www.kaggle.com/datasets/therealsampat/intents-for-first-aid-recommendations/data">Kaggle-FirstAidIntents</a>. This dataset had many empty response lists in tags and a low number of strings for pattern matching. It also did not include the diseases we intended to diagnose.</p>
