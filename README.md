@@ -6,7 +6,7 @@
 
 <h1>Medical Assistance Bot</h1>
 
-<p>This repository contains a Python-based project aimed at creating a small, fast, and efficient medical assistance bot that provides better assistance than voice command help from Google. The project leverages a LLaMA 3B 7B 8-bit quantized model to prompt engineer, generate missing responses, and create extra strings for pattern matching to increase the accuracy of disease classification. Additionally, it scrapes disease classifications from a model and generates tags, strings, patterns, and responses to facilitate disease tracking by a bot.</p>
+<p>This repository contains a Python-based project aimed at creating a small, fast, and efficient medical assistance bot that provides better assistance than voice command help from Google. The project uses a  Random forest classifier for diagnosis and a DNN using BOW ( bag of words ) trained on an intents json file. The project leveraged a LLaMA 3B 7B 8-bit quantized model to prompt engineer as to generate missing responses, and create extra strings for pattern matching to increase the accuracy of disease classification in the JSON dataset DNN. Additionally, I scraped disease classifications from the classification dataset and generated tags, strings, patterns, and responses to add to the intents file in order for it to also be able to provide what the medicines and treatments may be like after diagnosis is done.</p>
 
 <h2>Table of Contents</h2>
 <ul>
@@ -20,12 +20,13 @@
 
 <h2 id="overview">Overview</h2>
 <p>The goal of this project is to develop a medical assistance bot that is compact, rapid, and offers superior assistance compared to existing voice command help systems like Google. The project synthetically augments the dataset using a LLaMA 3B 7B 8-bit quantized model, ensuring comprehensive coverage of potential disease classifications and their associated responses.</p>
-<p>The dataset was initially sourced from <a href="https://www.kaggle.com/datasets/therealsampat/intents-for-first-aid-recommendations/data">Kaggle</a>. This dataset had many empty response lists in tags and a low number of strings for pattern matching. It also did not include the diseases we intended to diagnose.</p>
+<p>The intent dataset was initially sourced from <a href="https://www.kaggle.com/datasets/therealsampat/intents-for-first-aid-recommendations/data">Kaggle-FirstAidIntents</a>. This dataset had many empty response lists in tags and a low number of strings for pattern matching. It also did not include the diseases we intended to diagnose.</p>
+<p>The classification dataset was initially sourced from <a href="https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning">Kaggle-Diseases</a>. TThe avaialable classifications were scraped, and added by generating them as tags for the intents data.</p>
 
-<h2 id="features">Features</h2>
+<h2 id="features">Methodology and Features</h2>
 <ul>
-    <li><strong>Synthetic Augmentation</strong>: Uses a LLaMA 3B 7B 8-bit quantized model to generate missing responses and create additional strings for pattern matching.</li>
-    <li><strong>Disease Classification Scraping</strong>: Extracts disease classifications from a model to create accurate tags and responses.</li>
+    <li><strong>Synthetic Augmentation</strong>: Used a LLaMA 3B 7B 8-bit quantized model to generate missing responses and create additional strings for pattern matching.</li>
+    <li><strong>Disease Classification Scraping</strong>: Extracted disease classifications from teh dataset, used llama 3 to create accurate tags and responses.</li>
     <li><strong>Pattern Matching</strong>: Implements advanced pattern matching techniques to increase classification accuracy.</li>
     <li><strong>Response Generation</strong>: Generates relevant and accurate responses for the bot based on classified diseases.</li>
     <li><strong>Diagnosis and First Aid Options</strong>: Allows the user to choose between diagnosing diseases or receiving first aid recommendations.</li>
