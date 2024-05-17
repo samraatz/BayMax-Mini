@@ -24,13 +24,22 @@ https://github.com/samraatz/BayMax-Mini/blob/main/g2.jpeg
 
 <h2 id="overview">Overview</h2>
 <p>The goal of this project is to develop a medical assistance bot that is compact, rapid, and offers superior assistance compared to existing voice command help systems like Google. The project synthetically augments the dataset using a LLaMA 3B 7B 8-bit quantized model, ensuring comprehensive coverage of potential disease classifications and their associated responses.</p>
+<p>Below is an example of how where google fails, our model succeeds.</p>
+    <img src="https://github.com/samraatz/BayMax-Mini/blob/main/g1.png" alt="google query" width="250"></img>
+    <img src="https://github.com/samraatz/BayMax-Mini/blob/main/g2.png" alt="google response" width="250"></img>
+    <img src="https://github.com/samraatz/BayMax-Mini/blob/main/first%20aid-response.png" alt="our response" width="500"></img>
+
 <p>The intent dataset was initially sourced from <a href="https://www.kaggle.com/datasets/therealsampat/intents-for-first-aid-recommendations/data">Kaggle-FirstAidIntents</a>. This dataset had many empty response lists in tags and a low number of strings for pattern matching. It also did not include the diseases we intended to diagnose.</p>
-<p>The classification dataset was initially sourced from <a href="https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning">Kaggle-Diseases</a>. TThe avaialable classifications were scraped, and added by generating them as tags for the intents data.</p>
+    <img src="https://github.com/samraatz/BayMax-Mini/blob/main/original%20datset%20-%20empty%20responses%20and%20no%20tags%20for%20diseases.png" alt="original dataset" width="500"></img>
+
+<p>The classification dataset was sourced from <a href="https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning">Kaggle-Diseases</a>. TThe avaialable classifications were scraped, and added by generating them as tags for the intents data.</p>
 
 <h2 id="features">Methodology and Features</h2>
 <ul>
-    <li><strong>Synthetic Augmentation</strong>: Used a LLaMA 3B 7B 8-bit quantized model to generate missing responses and create additional strings for pattern matching.</li>
-    <li><strong>Disease Classification Scraping</strong>: Extracted disease classifications from teh dataset, used llama 3 to create accurate tags and responses.</li>
+    <li><strong>Synthetic Augmentation</strong>: Used a LLaMA 3B 7B 8-bit quantized model to generate missing responses and create additional strings for pattern matching.     <img src="https://github.com/samraatz/BayMax-Mini/blob/main/Data%20Augmentation%20-%201.png" alt="generation" width="500"></img>
+</li>
+    <li><strong>Disease Classification Scraping</strong>: Extracted disease classifications from the dataset, used llama 3 to create accurate tags and responses.</li>
+    <img src="https://github.com/samraatz/BayMax-Mini/blob/main/augmented%20strings.png" alt="new strings" width="500"></img>
     <li><strong>Pattern Matching</strong>: Implements advanced pattern matching techniques to increase classification accuracy.</li>
     <li><strong>Response Generation</strong>: Generates relevant and accurate responses for the bot based on classified diseases.</li>
     <li><strong>Diagnosis and First Aid Options</strong>: Allows the user to choose between diagnosing diseases or receiving first aid recommendations.</li>
@@ -57,17 +66,18 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`</code></pre>
     <p>The application will prompt the user to choose between diagnosing a disease or getting first aid help.</p>
     <li><strong>For disease diagnosis:</strong></li>
     <ul>
-        <li>Speak out the diagnosis and type the symptoms separated by commas (e.g., "fever, cough, headache").</li>
+        <li>Speak out diagnosis and type the symptoms separated by commas (e.g., "fever, cough, headache")            <img src="https://github.com/samraatz/BayMax-Mini/blob/main/diagnosis.png" alt="diagnosis home" width="500"></img>
+.</li>
         <li>The Random Forest classifier will classify the disease based on the symptoms.</li>
-        <li>The classification result will be spoken out loud.</li>
+        <li>The classification result will be spoken out loud.<img src="https://github.com/samraatz/BayMax-Mini/blob/main/diagnosis-response-1.png" alt="diagnosis 1" width="500"></img></li>
         <li>Speak the diagnosed disease, which will be matched to the intents in the final intent JSON file using the DNN model.</li>
-        <li>A response including recommended medicines and treatment will be generated and spoken out.</li>
+        <li>A response including recommended medicines and treatment will be generated and spoken out.<img src="https://github.com/samraatz/BayMax-Mini/blob/main/diagnosis-response-3.png" alt="diagnosis response" width="500"></img></li>
     </ul>
     <li><strong>For first aid help:</strong></li>
     <ul>
         <li>Speak your issue or symptom.</li>
         <li>The system will match your input to the most plausible response using a Bag of Words model (implemented with NLTK) and a DNN.</li>
-        <li>The appropriate first aid recommendation will be provided.</li>
+        <li>The appropriate first aid recommendation will be provided.<img src="https://github.com/samraatz/BayMax-Mini/blob/main/first%20aid-response.png" alt="first aid response" width="500"></img></li>
     </ul>
 </ol>
 
