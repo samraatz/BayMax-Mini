@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Medical Assistance Bot</title>
 </head>
 <body>
 
