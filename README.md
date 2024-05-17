@@ -70,7 +70,7 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`</code></pre>
 <p>To use the project, follow these steps:</p>
 <ol>
     <li><strong>Start the main application:</strong></li>
-    <pre><code>python main.py</code></pre>
+    <pre><code>streamlit run workingvoice.py</code></pre>
     <p>The application will prompt the user to choose between diagnosing a disease or getting first aid help.</p>
     <li><strong>For disease diagnosis:</strong></li>
     <ul>
