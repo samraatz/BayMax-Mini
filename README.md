@@ -11,7 +11,7 @@
     <img src="https://github.com/samraatz/BayMax-Mini/blob/main/home.png" alt="home page width="500"></img>
 </p>
 </p>
-
+https://github.com/samraatz/BayMax-Mini/blob/main/g2.jpeg
 <h2>Table of Contents</h2>
 <ul>
     <li><a href="#overview">Overview</a></li>
