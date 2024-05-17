@@ -24,10 +24,19 @@
 <h2 id="overview">Overview</h2>
 <p>The goal of this project is to develop a medical assistance bot that is compact, rapid, and offers superior assistance compared to existing voice command help systems like Google. The project synthetically augments the dataset using a LLaMA 3B 7B 8-bit quantized model, ensuring comprehensive coverage of potential disease classifications and their associated responses.</p>
 <p>Below is an example of how where google fails, our model succeeds.</p>
-    <img src="https://github.com/samraatz/BayMax-Mini/blob/main/g1.jpeg" alt="google query" width="250"></img>
-    <img src="https://github.com/samraatz/BayMax-Mini/blob/main/g2.jpeg" alt="google response" width="250"></img>
-    <img src="https://github.com/samraatz/BayMax-Mini/blob/main/first%20aid-response.png" alt="our response" width="500"></img>
-
+<div class="container">
+    <div class="row">
+        <div class="column">
+            <img src="https://github.com/samraatz/BayMax-Mini/blob/main/g1.jpeg" alt="google query" width="250">
+        </div>
+        <div class="column">
+            <img src="https://github.com/samraatz/BayMax-Mini/blob/main/g2.jpeg" alt="google response" width="250">
+        </div>
+    </div>
+    <div class="full-width">
+        <img src="https://github.com/samraatz/BayMax-Mini/blob/main/first%20aid-response.png" alt="our response" width="500">
+    </div>
+</div>
 <p>The intent dataset was initially sourced from <a href="https://www.kaggle.com/datasets/therealsampat/intents-for-first-aid-recommendations/data">Kaggle-FirstAidIntents</a>. This dataset had many empty response lists in tags and a low number of strings for pattern matching. It also did not include the diseases we intended to diagnose.</p>
     <img src="https://github.com/samraatz/BayMax-Mini/blob/main/original%20datset%20-%20empty%20responses%20and%20no%20tags%20for%20diseases.png" alt="original dataset" width="500"></img>
 
@@ -35,7 +44,7 @@
 
 <h2 id="features">Methodology and Features</h2>
 <ul>
-    <li><strong>Synthetic Augmentation</strong>: Used a LLaMA 3B 7B 8-bit quantized model to generate missing responses and create additional strings for pattern matching.     <img src="https://github.com/samraatz/BayMax-Mini/blob/main/Data%20Augmentation%20-%201.png" alt="generation" width="500"></img>
+    <li><strong>Synthetic Augmentation</strong>: Used a LLaMA 3B 7B 8-bit quantized model to generate missing responses and create additional strings for pattern matching.<img src="https://github.com/samraatz/BayMax-Mini/blob/main/Data%20Augmentation%20-%201.png" alt="generation" width="500"></img>
 </li>
     <li><strong>Disease Classification Scraping</strong>: Extracted disease classifications from the dataset, used llama 3 to create accurate tags and responses.</li>
     <img src="https://github.com/samraatz/BayMax-Mini/blob/main/augmented%20strings.png" alt="new strings" width="500"></img>
