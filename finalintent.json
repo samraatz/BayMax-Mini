@@ -1,0 +1,1892 @@
+{
+    "intents": [
+       {
+            "tag": "Cuts",
+            "patterns": [
+                "What to do if Cuts?",
+                "How to cure Cuts?",
+                "Which medicine to apply for Cuts?",
+                "what to apply on cuts?",
+                "Cuts",
+                "Bleeding",
+                "I am bleeding",
+                "Blood",
+                "Blood is not stopping",
+                "First aid for cuts",
+                "Stop bleeding from a cut",
+                "Best treatment for a cut on the hand",
+                "Home remedies for bleeding cuts",
+                "Emergency care for deep cuts",
+                "Please tell me about What to do if Cuts?",
+                "What should I do for What to do if Cuts??",
+                "I need help with What to do if Cuts?",
+                "Please tell me about How to cure Cuts?",
+                "What should I do for How to cure Cuts??",
+                "I need help with How to cure Cuts?",
+                "Please tell me about Which medicine to apply for Cuts?",
+                "What should I do for Which medicine to apply for Cuts??",
+                "I need help with Which medicine to apply for Cuts?",
+                "Please tell me about what to apply on cuts?",
+                "What should I do for what to apply on cuts??",
+                "I need help with what to apply on cuts?",
+                "Please tell me about Cuts",
+                "What should I do for Cuts?",
+                "I need help with Cuts",
+                "Please tell me about Bleeding",
+                "What should I do for Bleeding?",
+                "I need help with Bleeding",
+                "Please tell me about I am bleeding",
+                "What should I do for I am bleeding?",
+                "I need help with I am bleeding",
+                "Please tell me about Blood",
+                "What should I do for Blood?",
+                "I need help with Blood",
+                "Please tell me about Blood is not stopping",
+                "What should I do for Blood is not stopping?",
+                "I need help with Blood is not stopping",
+                "Please tell me about First aid for cuts",
+                "What should I do for First aid for cuts?",
+                "I need help with First aid for cuts",
+                "Please tell me about Stop bleeding from a cut",
+                "What should I do for Stop bleeding from a cut?",
+                "I need help with Stop bleeding from a cut",
+                "Please tell me about Best treatment for a cut on the hand",
+                "What should I do for Best treatment for a cut on the hand?",
+                "I need help with Best treatment for a cut on the hand",
+                "Please tell me about Home remedies for bleeding cuts",
+                "What should I do for Home remedies for bleeding cuts?",
+                "I need help with Home remedies for bleeding cuts",
+                "Please tell me about Emergency care for deep cuts",
+                "What should I do for Emergency care for deep cuts?",
+                "I need help with Emergency care for deep cuts"
+            ],
+            "responses": [
+                "Wash the cut properly to prevent infection and stop the bleeding by applying pressure for 1-2minutes until bleeding stops. Apply Petroleum Jelly to make sure that the wound is moist for quick healing. Finally cover the cut with a sterile bandage. Pain relievers such as acetaminophen can be applied."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Abrasions",
+            "patterns": [
+                "how do you treat abrasions?",
+                "Do Abrasions cause scars?",
+                "Abrasions",
+                "what to do if abrasions?",
+                "Which medicine to apply for abrasions?",
+                "How to cure abrasions?",
+                "Home treatment for skin abrasions",
+                "How to care for a scraped knee",
+                "Remedies for road rash",
+                "What should I apply on a scrape?",
+                "Managing pain from an abrasion",
+                "Please tell me about how do you treat abrasions?",
+                "What should I do for how do you treat abrasions??",
+                "I need help with how do you treat abrasions?",
+                "Please tell me about Do Abrasions cause scars?",
+                "What should I do for Do Abrasions cause scars??",
+                "I need help with Do Abrasions cause scars?",
+                "Please tell me about Abrasions",
+                "What should I do for Abrasions?",
+                "I need help with Abrasions",
+                "Please tell me about what to do if abrasions?",
+                "What should I do for what to do if abrasions??",
+                "I need help with what to do if abrasions?",
+                "Please tell me about Which medicine to apply for abrasions?",
+                "What should I do for Which medicine to apply for abrasions??",
+                "I need help with Which medicine to apply for abrasions?",
+                "Please tell me about How to cure abrasions?",
+                "What should I do for How to cure abrasions??",
+                "I need help with How to cure abrasions?",
+                "Please tell me about Home treatment for skin abrasions",
+                "What should I do for Home treatment for skin abrasions?",
+                "I need help with Home treatment for skin abrasions",
+                "Please tell me about How to care for a scraped knee",
+                "What should I do for How to care for a scraped knee?",
+                "I need help with How to care for a scraped knee",
+                "Please tell me about Remedies for road rash",
+                "What should I do for Remedies for road rash?",
+                "I need help with Remedies for road rash",
+                "Please tell me about What should I apply on a scrape?",
+                "What should I do for What should I apply on a scrape??",
+                "I need help with What should I apply on a scrape?",
+                "Please tell me about Managing pain from an abrasion",
+                "What should I do for Managing pain from an abrasion?",
+                "I need help with Managing pain from an abrasion"
+            ],
+            "responses": [
+                "Begin with washed hands.Gently clean the area with cool to lukewarm water and mild soap. Remove dirt or other particles from the wound using sterilized tweezers.For a mild scrape that\u2019s not bleeding, leave the wound uncovered.If the wound is bleeding, use a clean cloth or bandage, and apply gentle pressure to the area to stop any bleeding.Cover a wound that bled with a thin layer of topical antibiotic ointment, like Bacitracin, or a sterile moisture barrier ointment, like Aquaphor. Cover it with a clean bandage or gauze. Gently clean the wound and change the ointment and bandage once per day.Watch the area for signs of infection, like pain or redness and swelling. See your doctor if you suspect infection."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "stings",
+            "patterns": [
+                "How do you treat Sting?",
+                "Stings",
+                "What to do if you get a sting?",
+                "Which medicine to apply if sting?",
+                "Immediate steps for insect stings",
+                "Natural remedies for bee stings",
+                "How to alleviate pain from a sting",
+                "First aid for a wasp sting",
+                "Managing allergic reactions to stings",
+                "Please tell me about How do you treat Sting?",
+                "What should I do for How do you treat Sting??",
+                "I need help with How do you treat Sting?",
+                "Please tell me about Stings",
+                "What should I do for Stings?",
+                "I need help with Stings",
+                "Please tell me about What to do if you get a sting?",
+                "What should I do for What to do if you get a sting??",
+                "I need help with What to do if you get a sting?",
+                "Please tell me about Which medicine to apply if sting?",
+                "What should I do for Which medicine to apply if sting??",
+                "I need help with Which medicine to apply if sting?",
+                "Please tell me about Immediate steps for insect stings",
+                "What should I do for Immediate steps for insect stings?",
+                "I need help with Immediate steps for insect stings",
+                "Please tell me about Natural remedies for bee stings",
+                "What should I do for Natural remedies for bee stings?",
+                "I need help with Natural remedies for bee stings",
+                "Please tell me about How to alleviate pain from a sting",
+                "What should I do for How to alleviate pain from a sting?",
+                "I need help with How to alleviate pain from a sting",
+                "Please tell me about First aid for a wasp sting",
+                "What should I do for First aid for a wasp sting?",
+                "I need help with First aid for a wasp sting",
+                "Please tell me about Managing allergic reactions to stings",
+                "What should I do for Managing allergic reactions to stings?",
+                "I need help with Managing allergic reactions to stings"
+            ],
+            "responses": [
+                "Remove any stingers immediately. Some experts recommend scraping out the stinger with a credit card. Applying ice to the site may provide some mild relief. Apply ice for 20 minutes once every hour as needed. Wrap the ice in a towel or keep a cloth between the ice and skin to keep from freezing the skin. Taking an antihistamine such as diphenhydramine (Benadryl) or a nonsedating one such as loratadine (Claritin) will help with itching and swelling. Take acetaminophen (Tylenol) or ibuprofen (Motrin)for pain relief as needed. Wash the sting site with soap and water. Placing hydrocortisone cream on the sting can help relieve redness, itching, and swelling."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Splinter",
+            "patterns": [
+                "How to remove Splinters",
+                "How to cure Splinters?",
+                "What to do if I have splinters?",
+                "How do you bring a splinter to the surface?",
+                "Steps to safely remove a splinter",
+                "How to deal with deep splinters",
+                "Removing splinters without pain",
+                "Home solutions for splinter extraction",
+                "How to prevent infection from splinters",
+                "Please tell me about How to remove Splinters",
+                "What should I do for How to remove Splinters?",
+                "I need help with How to remove Splinters",
+                "Please tell me about How to cure Splinters?",
+                "What should I do for How to cure Splinters??",
+                "I need help with How to cure Splinters?",
+                "Please tell me about What to do if I have splinters?",
+                "What should I do for What to do if I have splinters??",
+                "I need help with What to do if I have splinters?",
+                "Please tell me about How do you bring a splinter to the surface?",
+                "What should I do for How do you bring a splinter to the surface??",
+                "I need help with How do you bring a splinter to the surface?",
+                "Please tell me about Steps to safely remove a splinter",
+                "What should I do for Steps to safely remove a splinter?",
+                "I need help with Steps to safely remove a splinter",
+                "Please tell me about How to deal with deep splinters",
+                "What should I do for How to deal with deep splinters?",
+                "I need help with How to deal with deep splinters",
+                "Please tell me about Removing splinters without pain",
+                "What should I do for Removing splinters without pain?",
+                "I need help with Removing splinters without pain",
+                "Please tell me about Home solutions for splinter extraction",
+                "What should I do for Home solutions for splinter extraction?",
+                "I need help with Home solutions for splinter extraction",
+                "Please tell me about How to prevent infection from splinters",
+                "What should I do for How to prevent infection from splinters?",
+                "I need help with How to prevent infection from splinters"
+            ],
+            "responses": [
+                "1. SOAK IT IN EPSOM SALTS. Dissolve a cup of the salts into a warm bath and soak whatever part of the body has the splinter. Failing that, you can also put some of the salts onto a bandage pad and leave it covered for a day; this will eventually help bring the splinter to the surface. 2. VINEGAR OR OIL. Another simple way to draw out that stubborn splinter is to soak the affected area in oil (olive or corn) or white vinegar. Just pour some in a bowl and soak the area for around 20 to 30 minutes,"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Sprains",
+            "patterns": [
+                "How do you treat a sprain?",
+                "what to do if i get a sprain?",
+                "Which cream to apply if i get a sprain?",
+                "Which medicine to apply if I get a sprain?",
+                "Best immediate care for a sprained ankle",
+                "How to reduce swelling in a sprain",
+                "Home treatment options for sprains",
+                "Physical therapy for sprains",
+                "Effective pain relief for sprained muscles",
+                "Please tell me about How do you treat a sprain?",
+                "What should I do for How do you treat a sprain??",
+                "I need help with How do you treat a sprain?",
+                "Please tell me about what to do if i get a sprain?",
+                "What should I do for what to do if i get a sprain??",
+                "I need help with what to do if i get a sprain?",
+                "Please tell me about Which cream to apply if i get a sprain?",
+                "What should I do for Which cream to apply if i get a sprain??",
+                "I need help with Which cream to apply if i get a sprain?",
+                "Please tell me about Which medicine to apply if I get a sprain?",
+                "What should I do for Which medicine to apply if I get a sprain??",
+                "I need help with Which medicine to apply if I get a sprain?",
+                "Please tell me about Best immediate care for a sprained ankle",
+                "What should I do for Best immediate care for a sprained ankle?",
+                "I need help with Best immediate care for a sprained ankle",
+                "Please tell me about How to reduce swelling in a sprain",
+                "What should I do for How to reduce swelling in a sprain?",
+                "I need help with How to reduce swelling in a sprain",
+                "Please tell me about Home treatment options for sprains",
+                "What should I do for Home treatment options for sprains?",
+                "I need help with Home treatment options for sprains",
+                "Please tell me about Physical therapy for sprains",
+                "What should I do for Physical therapy for sprains?",
+                "I need help with Physical therapy for sprains",
+                "Please tell me about Effective pain relief for sprained muscles",
+                "What should I do for Effective pain relief for sprained muscles?",
+                "I need help with Effective pain relief for sprained muscles"
+            ],
+            "responses": [
+                "Use an ice pack or ice slush bath immediately for 15 to 20 minutes and repeat every two to three hours while you're awake. To help stop swelling, compress the ankle with an elastic bandage until the swelling stops. In most cases, pain relievers \u2014 such as ibuprofen (Advil, Motrin IB, others) or naproxen sodium (Aleve, others) or acetaminophen (Tylenol, others) are enough to manage the pain of a sprained ankle."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Strains",
+            "patterns": [
+                "How do you treat a strain?",
+                "what to do if i get a strain?",
+                "Which cream to apply if i get a strain?",
+                "Which medicine to apply if I get a strain?",
+                "How do you diagnose a strain?",
+                "Is heat or ice better for a pulled muscle?",
+                "Please tell me about How do you treat a strain?",
+                "What should I do for How do you treat a strain??",
+                "I need help with How do you treat a strain?",
+                "Please tell me about what to do if i get a strain?",
+                "What should I do for what to do if i get a strain??",
+                "I need help with what to do if i get a strain?",
+                "Please tell me about Which cream to apply if i get a strain?",
+                "What should I do for Which cream to apply if i get a strain??",
+                "I need help with Which cream to apply if i get a strain?",
+                "Please tell me about Which medicine to apply if I get a strain?",
+                "What should I do for Which medicine to apply if I get a strain??",
+                "I need help with Which medicine to apply if I get a strain?",
+                "Please tell me about How do you diagnose a strain?",
+                "What should I do for How do you diagnose a strain??",
+                "I need help with How do you diagnose a strain?",
+                "Please tell me about Is heat or ice better for a pulled muscle?",
+                "What should I do for Is heat or ice better for a pulled muscle??",
+                "I need help with Is heat or ice better for a pulled muscle?"
+            ],
+            "responses": [
+                "Rest,Ice,Compression and Elevation can be used to cure strains. Avoid using your muscle for a few days, especially if movement causes an increase in pain and also Apply ice immediately after injuring your muscle. This will minimize swelling. Don\u2019t put ice directly on your skin. Use an ice pack or wrap ice in a towel. To reduce swelling, wrap the affected area with an elastic bandage until swelling comes down."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Fever",
+            "patterns": [
+                "How do you treat a mild Fever?",
+                "what to do if i get a mild fever?",
+                "Which medicine to take if I get a mild fever?",
+                "fever",
+                "Please tell me about How do you treat a mild Fever?",
+                "What should I do for How do you treat a mild Fever??",
+                "I need help with How do you treat a mild Fever?",
+                "Please tell me about what to do if i get a mild fever?",
+                "What should I do for what to do if i get a mild fever??",
+                "I need help with what to do if i get a mild fever?",
+                "Please tell me about Which medicine to take if I get a mild fever?",
+                "What should I do for Which medicine to take if I get a mild fever??",
+                "I need help with Which medicine to take if I get a mild fever?",
+                "Please tell me about fever",
+                "What should I do for fever?",
+                "I need help with fever"
+            ],
+            "responses": [
+                "To treat a fever at home: 1)Drink plenty of fluids to stay hydrated. 2)Dress in lightweight clothing. 3)Use a light blanket if you feel chilled, until the chills end. 4)Take acetaminophen (Tylenol, others) or ibuprofen (Advil, Motrin IB, others). 5) Get medical help if the fever lasts more than five days in a row."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Nasal Congestion",
+            "patterns": [
+                "How do you treat nasal Congestion?",
+                "what to do if i get a nasal congestion?",
+                "Which medicine to take if I have a nasal congestion?",
+                "what to do if i have a blocked nose?",
+                "How do you treat a blocked nose?",
+                "How long does nasal congestion last?",
+                "Please tell me about How do you treat nasal Congestion?",
+                "What should I do for How do you treat nasal Congestion??",
+                "I need help with How do you treat nasal Congestion?",
+                "Please tell me about what to do if i get a nasal congestion?",
+                "What should I do for what to do if i get a nasal congestion??",
+                "I need help with what to do if i get a nasal congestion?",
+                "Please tell me about Which medicine to take if I have a nasal congestion?",
+                "What should I do for Which medicine to take if I have a nasal congestion??",
+                "I need help with Which medicine to take if I have a nasal congestion?",
+                "Please tell me about what to do if i have a blocked nose?",
+                "What should I do for what to do if i have a blocked nose??",
+                "I need help with what to do if i have a blocked nose?",
+                "Please tell me about How do you treat a blocked nose?",
+                "What should I do for How do you treat a blocked nose??",
+                "I need help with How do you treat a blocked nose?",
+                "Please tell me about How long does nasal congestion last?",
+                "What should I do for How long does nasal congestion last??",
+                "I need help with How long does nasal congestion last?"
+            ],
+            "responses": [
+                "When you\u2019re stuffed up, focus on keeping your nasal passages and sinuses moist. To keep your nasal passages moist, you can: 1)Use a humidifier or vaporizer. 2)Drink lots of fluids. This will thin out your mucus, which could help prevent blocked sinuses. 3)Place a warm, wet towel on your face. It may relieve discomfort and open your nasal passages."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Cough",
+            "patterns": [
+                "How to cure cough?",
+                "How do you treat cough?",
+                "what to do if i get a cough?",
+                "Which medicine to take if I get cough?",
+                "How do you get rid of cough?",
+                "Please tell me about How to cure cough?",
+                "What should I do for How to cure cough??",
+                "I need help with How to cure cough?",
+                "Please tell me about How do you treat cough?",
+                "What should I do for How do you treat cough??",
+                "I need help with How do you treat cough?",
+                "Please tell me about what to do if i get a cough?",
+                "What should I do for what to do if i get a cough??",
+                "I need help with what to do if i get a cough?",
+                "Please tell me about Which medicine to take if I get cough?",
+                "What should I do for Which medicine to take if I get cough??",
+                "I need help with Which medicine to take if I get cough?",
+                "Please tell me about How do you get rid of cough?",
+                "What should I do for How do you get rid of cough??",
+                "I need help with How do you get rid of cough?"
+            ],
+            "responses": [
+                "1) Honey:- Use honey to treat a cough, mix 2 teaspoons (tsp) with warm water or an herbal tea. Drink this mixture once or twice a day. Do not give honey to children under 1 year of age. 2) Ginger:- Brew up a soothing ginger tea by adding 20\u201340 grams (g) of fresh ginger slices to a cup of hot water. Allow to steep for a few minutes before drinking. Add honey or lemon juice to improve the taste and further soothe a cough. 3) Fluids:- Staying hydrated is vital for those with a cough or cold. Research indicates that drinking liquids at room temperature can alleviate a cough, runny nose, and sneezing."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Sore Throat",
+            "patterns": [
+                "How do you treat sore throat?",
+                "what to do if i get a sore throat?",
+                "Which medicine to take if I get a sore throat?",
+                "How to cure sore throat?",
+                "Please tell me about How do you treat sore throat?",
+                "What should I do for How do you treat sore throat??",
+                "I need help with How do you treat sore throat?",
+                "Please tell me about what to do if i get a sore throat?",
+                "What should I do for what to do if i get a sore throat??",
+                "I need help with what to do if i get a sore throat?",
+                "Please tell me about Which medicine to take if I get a sore throat?",
+                "What should I do for Which medicine to take if I get a sore throat??",
+                "I need help with Which medicine to take if I get a sore throat?",
+                "Please tell me about How to cure sore throat?",
+                "What should I do for How to cure sore throat??",
+                "I need help with How to cure sore throat?"
+            ],
+            "responses": [
+                "1) Make sure you get plenty of rest and drink a lot of fluids. 2)Inhale steam,Run hot water in a sink.Drape a towel over you to trap the steam, and have the person lean over the sink with the water running. Tell him to breathe deeply through his mouth and nose for 5 to 10 minutes. Repeat several times a day. 3)Have him sip chicken broth or warm tea with honey. Don\u2019t give honey to a child under 12 months of age."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Gastrointestinal problems",
+            "patterns": [
+                "How do you treat gas problems?",
+                "what to do if i have Gastrointestinal problems?",
+                "Which medicine to take if I get gas problem?",
+                "How to cure Gas problems?",
+                "Please tell me about How do you treat gas problems?",
+                "What should I do for How do you treat gas problems??",
+                "I need help with How do you treat gas problems?",
+                "Please tell me about what to do if i have Gastrointestinal problems?",
+                "What should I do for what to do if i have Gastrointestinal problems??",
+                "I need help with what to do if i have Gastrointestinal problems?",
+                "Please tell me about Which medicine to take if I get gas problem?",
+                "What should I do for Which medicine to take if I get gas problem??",
+                "I need help with Which medicine to take if I get gas problem?",
+                "Please tell me about How to cure Gas problems?",
+                "What should I do for How to cure Gas problems??",
+                "I need help with How to cure Gas problems?"
+            ],
+            "responses": [
+                "1) Replenish body fluids 2)Do not take antidiarrheal drugs or laxatives or pain medication, unless specified by a medical professional.3)Taking antacids may help, per recommendation of a healthcare professional. 4)If prone to frequent heartburns, seek medical help. 5)Taking meals that are not spicy regularly, can relieve ulcer pains. 6)Seek medical help, if conditions persist or continue to worsen"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Skin problems",
+            "patterns": [
+                "How do you treat Skin problems?",
+                "what to do if i get a skin allergy?",
+                "Which medicine to take if I get a skin allergy?",
+                "How to cure skin allergy?",
+                "Please tell me about How do you treat Skin problems?",
+                "What should I do for How do you treat Skin problems??",
+                "I need help with How do you treat Skin problems?",
+                "Please tell me about what to do if i get a skin allergy?",
+                "What should I do for what to do if i get a skin allergy??",
+                "I need help with what to do if i get a skin allergy?",
+                "Please tell me about Which medicine to take if I get a skin allergy?",
+                "What should I do for Which medicine to take if I get a skin allergy??",
+                "I need help with Which medicine to take if I get a skin allergy?",
+                "Please tell me about How to cure skin allergy?",
+                "What should I do for How to cure skin allergy??",
+                "I need help with How to cure skin allergy?"
+            ],
+            "responses": [
+                "1)Hydrocortisone cream. 2)Ointments like calamine lotion. 3)Antihistamines. 4)Cold compresses. 5)Oatmeal baths. 6)Talk to your doctor about what's best for your specific rash."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Abdonominal Pain",
+            "patterns": [
+                "How do you treat Abdonominal Pain?",
+                "what to do if i get a Abdonominal Pain?",
+                "Which medicine to take if I get a Abdonominal Pain?",
+                "How to cure Abdonominal Pain?",
+                "Please tell me about How do you treat Abdonominal Pain?",
+                "What should I do for How do you treat Abdonominal Pain??",
+                "I need help with How do you treat Abdonominal Pain?",
+                "Please tell me about what to do if i get a Abdonominal Pain?",
+                "What should I do for what to do if i get a Abdonominal Pain??",
+                "I need help with what to do if i get a Abdonominal Pain?",
+                "Please tell me about Which medicine to take if I get a Abdonominal Pain?",
+                "What should I do for Which medicine to take if I get a Abdonominal Pain??",
+                "I need help with Which medicine to take if I get a Abdonominal Pain?",
+                "Please tell me about How to cure Abdonominal Pain?",
+                "What should I do for How to cure Abdonominal Pain??",
+                "I need help with How to cure Abdonominal Pain?"
+            ],
+            "responses": [
+                "1)Provide clear fluids to sip, such as water, broth, or fruit juice diluted with water. 2)Serve bland foods, such as saltine crackers, plain bread, dry toast, rice, gelatin, or applesauce. 3)Avoid spicy or greasy foods and caffeinated or carbonated drinks until 48 hours after all symptoms have gone away. "
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Bruises",
+            "patterns": [
+                "How do you treat Bruises?",
+                "what to do if i get a Bruise?",
+                "Which medicine to take if I get a Bruise?",
+                "How to cure Bruises?",
+                "Please tell me about How do you treat Bruises?",
+                "What should I do for How do you treat Bruises??",
+                "I need help with How do you treat Bruises?",
+                "Please tell me about what to do if i get a Bruise?",
+                "What should I do for what to do if i get a Bruise??",
+                "I need help with what to do if i get a Bruise?",
+                "Please tell me about Which medicine to take if I get a Bruise?",
+                "What should I do for Which medicine to take if I get a Bruise??",
+                "I need help with Which medicine to take if I get a Bruise?",
+                "Please tell me about How to cure Bruises?",
+                "What should I do for How to cure Bruises??",
+                "I need help with How to cure Bruises?"
+            ],
+            "responses": [
+                "1)Ice the bruise with an ice pack wrapped in a towel. 2)Leave it in place for 10 to 20 minutes. 3)Repeat several times a day for a day or two as needed. 4)Compress the bruised area if it is swelling, using an elastic bandage. "
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Broken Toe",
+            "patterns": [
+                "How do you treat a Broken Toe?",
+                "what to do if i get a Broken Toe?",
+                "Which medicine to take if I get a Broken Toe?",
+                "How to cure Broken Toe?",
+                "Please tell me about How do you treat a Broken Toe?",
+                "What should I do for How do you treat a Broken Toe??",
+                "I need help with How do you treat a Broken Toe?",
+                "Please tell me about what to do if i get a Broken Toe?",
+                "What should I do for what to do if i get a Broken Toe??",
+                "I need help with what to do if i get a Broken Toe?",
+                "Please tell me about Which medicine to take if I get a Broken Toe?",
+                "What should I do for Which medicine to take if I get a Broken Toe??",
+                "I need help with Which medicine to take if I get a Broken Toe?",
+                "Please tell me about How to cure Broken Toe?",
+                "What should I do for How to cure Broken Toe??",
+                "I need help with How to cure Broken Toe?"
+            ],
+            "responses": [
+                "1)To help decrease pain and swelling in a broken toe, elevate the foot, ice the injury, and stay off the foot. 2)Depending on the severity of the fracture, the toe may need to be put back into place (reduced), and some compound toe fractures may require surgery.3) Most broken toes heal without complications in six weeks."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Choking",
+            "patterns": [
+                "How do you treat Choking?",
+                "what to do if i get a Choke?",
+                "Which medicine to take if I get Choked?",
+                "How to cure Choking?",
+                "Please tell me about How do you treat Choking?",
+                "What should I do for How do you treat Choking??",
+                "I need help with How do you treat Choking?",
+                "Please tell me about what to do if i get a Choke?",
+                "What should I do for what to do if i get a Choke??",
+                "I need help with what to do if i get a Choke?",
+                "Please tell me about Which medicine to take if I get Choked?",
+                "What should I do for Which medicine to take if I get Choked??",
+                "I need help with Which medicine to take if I get Choked?",
+                "Please tell me about How to cure Choking?",
+                "What should I do for How to cure Choking??",
+                "I need help with How to cure Choking?"
+            ],
+            "responses": [
+                "1)Encourage them to keep coughing to try to clear the blockage. 2)Ask them to try to spit out the object if it's in their mouth. 3)If coughing doesn't work, start back blows and Abdonominal thrusts"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Wound",
+            "patterns": [
+                "How do you treat a wound?",
+                "what to do if i get a Wound?",
+                "Which medicine to take if I get wounded?",
+                "How to cure a wound?",
+                "Please tell me about How do you treat a wound?",
+                "What should I do for How do you treat a wound??",
+                "I need help with How do you treat a wound?",
+                "Please tell me about what to do if i get a Wound?",
+                "What should I do for what to do if i get a Wound??",
+                "I need help with what to do if i get a Wound?",
+                "Please tell me about Which medicine to take if I get wounded?",
+                "What should I do for Which medicine to take if I get wounded??",
+                "I need help with Which medicine to take if I get wounded?",
+                "Please tell me about How to cure a wound?",
+                "What should I do for How to cure a wound??",
+                "I need help with How to cure a wound?"
+            ],
+            "responses": [
+                "1)Rinse the cut or wound with water and apply pressure with sterile gauze, a bandage, or a clean cloth. 2)If blood soaks through the bandage, place another bandage on top of the first and keep applying pressure. 3)Raise the injured body part to slow bleeding. 4)When bleeding stops, cover the wound with a new, clean bandage."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Diarrhea",
+            "patterns": [
+                "How do you treat Diarrhea?",
+                "what to do if i get Diarrhea?",
+                "Which medicine to take if I get Diarrhea?",
+                "How to cure Diarrhea?",
+                "Please tell me about How do you treat Diarrhea?",
+                "What should I do for How do you treat Diarrhea??",
+                "I need help with How do you treat Diarrhea?",
+                "Please tell me about what to do if i get Diarrhea?",
+                "What should I do for what to do if i get Diarrhea??",
+                "I need help with what to do if i get Diarrhea?",
+                "Please tell me about Which medicine to take if I get Diarrhea?",
+                "What should I do for Which medicine to take if I get Diarrhea??",
+                "I need help with Which medicine to take if I get Diarrhea?",
+                "Please tell me about How to cure Diarrhea?",
+                "What should I do for How to cure Diarrhea??",
+                "I need help with How to cure Diarrhea?"
+            ],
+            "responses": [
+                "1)Hydrating the body is essential for recovering from diarrhea.This causes the body to lose electrolytes such as sodium and chloride. 2)It is highly recommended to avoid dairy products, as they may worsen diarrhea in some people. 3)However, if diarrhea lasts for more than 2 days, seek medical advice to avoid complications."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Frost bite",
+            "patterns": [
+                "How do you treat a Frost bite?",
+                "what to do if i get a Frost bite?",
+                "Which medicine to take if I get a Frost bite?",
+                "How to cure Frost bite?",
+                "Please tell me about How do you treat a Frost bite?",
+                "What should I do for How do you treat a Frost bite??",
+                "I need help with How do you treat a Frost bite?",
+                "Please tell me about what to do if i get a Frost bite?",
+                "What should I do for what to do if i get a Frost bite??",
+                "I need help with what to do if i get a Frost bite?",
+                "Please tell me about Which medicine to take if I get a Frost bite?",
+                "What should I do for Which medicine to take if I get a Frost bite??",
+                "I need help with Which medicine to take if I get a Frost bite?",
+                "Please tell me about How to cure Frost bite?",
+                "What should I do for How to cure Frost bite??",
+                "I need help with How to cure Frost bite?"
+            ],
+            "responses": [
+                " "
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Heat Exhaustion",
+            "patterns": [
+                "How do you treat Heat Exhaustion?",
+                "what to do if i feel Exhausted due to heat?",
+                "Which medicine to take if I get Exhausted?",
+                "How to cure Heat Exhaustion?",
+                "Please tell me about How do you treat Heat Exhaustion?",
+                "What should I do for How do you treat Heat Exhaustion??",
+                "I need help with How do you treat Heat Exhaustion?",
+                "Please tell me about what to do if i feel Exhausted due to heat?",
+                "What should I do for what to do if i feel Exhausted due to heat??",
+                "I need help with what to do if i feel Exhausted due to heat?",
+                "Please tell me about Which medicine to take if I get Exhausted?",
+                "What should I do for Which medicine to take if I get Exhausted??",
+                "I need help with Which medicine to take if I get Exhausted?",
+                "Please tell me about How to cure Heat Exhaustion?",
+                "What should I do for How to cure Heat Exhaustion??",
+                "I need help with How to cure Heat Exhaustion?"
+            ],
+            "responses": [
+                "Move to a cool place, rest, and hydrate with water or sports drinks. Loosen tight clothing and apply cool, wet cloths to the skin. If symptoms such as confusion, rapid pulse, or fainting occur, seek immediate medical attention."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Heat Stroke",
+            "patterns": [
+                "How do you treat Heat Stroke?",
+                "what to do if i get a Heat Stroke?",
+                "Which medicine to take if I get Stroke?",
+                "How to cure a Heat Stroke?",
+                "Please tell me about How do you treat Heat Stroke?",
+                "What should I do for How do you treat Heat Stroke??",
+                "I need help with How do you treat Heat Stroke?",
+                "Please tell me about what to do if i get a Heat Stroke?",
+                "What should I do for what to do if i get a Heat Stroke??",
+                "I need help with what to do if i get a Heat Stroke?",
+                "Please tell me about Which medicine to take if I get Stroke?",
+                "What should I do for Which medicine to take if I get Stroke??",
+                "I need help with Which medicine to take if I get Stroke?",
+                "Please tell me about How to cure a Heat Stroke?",
+                "What should I do for How to cure a Heat Stroke??",
+                "I need help with How to cure a Heat Stroke?"
+            ],
+            "responses": [
+                "Heat stroke is a severe medical emergency. Call emergency services immediately. While waiting for help, move the person to a cooler environment, remove excess clothing, and cool the person using whatever means available, such as a cool bath or damp sheets with a fan."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Insect Bites",
+            "patterns": [
+                "How do you treat a Insect Bite?",
+                "what to do if a insect bites me?",
+                "Which medicine to take if I get bitten by a insect?",
+                "How to cure insect bite?",
+                "Please tell me about How do you treat a Insect Bite?",
+                "What should I do for How do you treat a Insect Bite??",
+                "I need help with How do you treat a Insect Bite?",
+                "Please tell me about what to do if a insect bites me?",
+                "What should I do for what to do if a insect bites me??",
+                "I need help with what to do if a insect bites me?",
+                "Please tell me about Which medicine to take if I get bitten by a insect?",
+                "What should I do for Which medicine to take if I get bitten by a insect??",
+                "I need help with Which medicine to take if I get bitten by a insect?",
+                "Please tell me about How to cure insect bite?",
+                "What should I do for How to cure insect bite??",
+                "I need help with How to cure insect bite?"
+            ],
+            "responses": [
+                "For most insect bites, wash the area with soap and water, apply ice to reduce swelling, and use over-the-counter antihistamines for itching. If there is severe swelling, difficulty breathing, or dizziness, seek medical attention immediately."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "nose bleed",
+            "patterns": [
+                "How do you treat a bleeding nose?",
+                "what to do if i my nose is bleeding?",
+                "Which medicine to take if I get nose bleed?",
+                "How to cure nose bleeding?",
+                "Please tell me about How do you treat a bleeding nose?",
+                "What should I do for How do you treat a bleeding nose??",
+                "I need help with How do you treat a bleeding nose?",
+                "Please tell me about what to do if i my nose is bleeding?",
+                "What should I do for what to do if i my nose is bleeding??",
+                "I need help with what to do if i my nose is bleeding?",
+                "Please tell me about Which medicine to take if I get nose bleed?",
+                "What should I do for Which medicine to take if I get nose bleed??",
+                "I need help with Which medicine to take if I get nose bleed?",
+                "Please tell me about How to cure nose bleeding?",
+                "What should I do for How to cure nose bleeding??",
+                "I need help with How to cure nose bleeding?"
+            ],
+            "responses": [
+                "Sit upright and lean forward to prevent swallowing blood. Pinch your nose just above the nostrils for 10-15 minutes. Avoid blowing your nose or bending down. If bleeding continues for more than 20 minutes or is very heavy, seek medical help."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Pulled Muscle",
+            "patterns": [
+                "How do you treat a Pulled Muscle?",
+                "what to do if my muscle is pulled?",
+                "Which medicine to take if I got pulled muscle?",
+                "How to cure a pulled muscle?",
+                "Please tell me about How do you treat a Pulled Muscle?",
+                "What should I do for How do you treat a Pulled Muscle??",
+                "I need help with How do you treat a Pulled Muscle?",
+                "Please tell me about what to do if my muscle is pulled?",
+                "What should I do for what to do if my muscle is pulled??",
+                "I need help with what to do if my muscle is pulled?",
+                "Please tell me about Which medicine to take if I got pulled muscle?",
+                "What should I do for Which medicine to take if I got pulled muscle??",
+                "I need help with Which medicine to take if I got pulled muscle?",
+                "Please tell me about How to cure a pulled muscle?",
+                "What should I do for How to cure a pulled muscle??",
+                "I need help with How to cure a pulled muscle?"
+            ],
+            "responses": [
+                "Rest the muscle, apply ice to reduce swelling, and use compression wraps if necessary. Elevate the affected area. For pain, over-the-counter pain relievers like ibuprofen can help. Avoid using the muscle too much until it heals."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Rectal bleeding",
+            "patterns": [
+                "How do you treat Rectal Bleeding?",
+                "what to do if i get a Rectal Bleeding?",
+                "Which medicine to take if I get Rectal Bleeding?",
+                "How to cure Rectal Bleeding?",
+                "Please tell me about How do you treat Rectal Bleeding?",
+                "What should I do for How do you treat Rectal Bleeding??",
+                "I need help with How do you treat Rectal Bleeding?",
+                "Please tell me about what to do if i get a Rectal Bleeding?",
+                "What should I do for what to do if i get a Rectal Bleeding??",
+                "I need help with what to do if i get a Rectal Bleeding?",
+                "Please tell me about Which medicine to take if I get Rectal Bleeding?",
+                "What should I do for Which medicine to take if I get Rectal Bleeding??",
+                "I need help with Which medicine to take if I get Rectal Bleeding?",
+                "Please tell me about How to cure Rectal Bleeding?",
+                "What should I do for How to cure Rectal Bleeding??",
+                "I need help with How to cure Rectal Bleeding?"
+            ],
+            "responses": [
+                "Rectal bleeding can indicate a serious condition such as hemorrhoids or more serious diseases. Keep the area clean, use over-the-counter hemorrhoid creams if hemorrhoids are known, and see a doctor immediately to determine the cause."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Sun Burn",
+            "patterns": [
+                "How do you treat Sun Burn?",
+                "what to do if i get a Sun Burn?",
+                "Which medicine to take if I get Sun Burn?",
+                "How to cure a Sun Burn?",
+                "Please tell me about How do you treat Sun Burn?",
+                "What should I do for How do you treat Sun Burn??",
+                "I need help with How do you treat Sun Burn?",
+                "Please tell me about what to do if i get a Sun Burn?",
+                "What should I do for what to do if i get a Sun Burn??",
+                "I need help with what to do if i get a Sun Burn?",
+                "Please tell me about Which medicine to take if I get Sun Burn?",
+                "What should I do for Which medicine to take if I get Sun Burn??",
+                "I need help with Which medicine to take if I get Sun Burn?",
+                "Please tell me about How to cure a Sun Burn?",
+                "What should I do for How to cure a Sun Burn??",
+                "I need help with How to cure a Sun Burn?"
+            ],
+            "responses": [
+                "Treat mild sunburn with cool baths, moisturizing lotions, and over-the-counter hydrocortisone creams for itching. Stay hydrated and avoid further sun exposure. If blisters occur, do not pop them as this increases the risk of infection."
+            ],
+            "context_set": ""
+        },
+        {
+    "tag": "Testicle Pain",
+    "patterns": [
+        "How do you treat Testicle Pain?",
+        "what to do if i get a Testicle Pain?",
+        "Which medicine to take if I get a Testicle Pain?",
+        "How to cure Testicle Pain?",
+        "Please tell me about How do you treat Testicle Pain?",
+        "What should I do for How do you treat Testicle Pain??",
+        "I need help with How do you treat Testicle Pain?",
+        "Please tell me about what to do if i get a Testicle Pain?",
+        "What should I do for what to do if i get a Testicle Pain??",
+        "I need help with what to do if i get a Testicle Pain?",
+        "Please tell me about Which medicine to take if I get a Testicle Pain?",
+        "What should I do for Which medicine to take if I get a Testicle Pain??",
+        "I need help with Which medicine to take if I get a Testicle Pain?",
+        "Please tell me about How to cure Testicle Pain?",
+        "What should I do for How to cure Testicle Pain??",
+        "I need help with How to cure Testicle Pain?"
+    ],
+    "responses": [
+        "Immediate medical attention is required for severe or sudden testicle pain. For mild pain, over-the-counter pain relievers and supportive undergarments can help. Apply ice packs to reduce swelling."
+    ],
+    "context_set": ""
+},
+
+{
+    "tag": "Vertigo",
+    "patterns": [
+        "How do you treat a Vertigo?",
+        "what to do if i get a Vertigo?",
+        "Which medicine to take if I get Vertigo?",
+        "How to cure a Vertigo?",
+        "Please tell me about How do you treat a Vertigo?",
+        "What should I do for How do you treat a Vertigo??",
+        "I need help with How do you treat a Vertigo?",
+        "Please tell me about what to do if i get a Vertigo?",
+        "What should I do for what to do if i get a Vertigo??",
+        "I need help with what to do if i get a Vertigo?",
+        "Please tell me about Which medicine to take if I get Vertigo?",
+        "What should I do for Which medicine to take if I get Vertigo??",
+        "I need help with Which medicine to take if I get Vertigo?",
+        "Please tell me about How to cure a Vertigo?",
+        "What should I do for How to cure a Vertigo??",
+        "I need help with How to cure a Vertigo?"
+    ],
+    "responses": [
+        "Sit or lie down immediately when you feel dizzy. Vestibular rehabilitation exercises can help, and medications might be prescribed by a doctor for nausea or motion sickness. Avoid sudden movements and be cautious with changes in position."
+    ],
+    "context_set": ""
+},
+
+{
+    "tag": "Normal Bleeding",
+    "patterns": [
+        "How do you treat bleeding?",
+        "what to do if i get a Bleeding?",
+        "Which medicine to take if I get bleeding?",
+        "How to cure Bleeding?",
+        "Please tell me about How do you treat bleeding?",
+        "What should I do for How do you treat bleeding??",
+        "I need help with How do you treat bleeding?",
+        "Please tell me about what to do if i get a Bleeding?",
+        "What should I do for what to do if i get a Bleeding??",
+        "I need help with what to do if i get a Bleeding?",
+        "Please tell me about Which medicine to take if I get bleeding?",
+        "What should I do for Which medicine to take if I get bleeding??",
+        "I need help with Which medicine to take if I get bleeding?",
+        "Please tell me about How to cure Bleeding?",
+        "What should I do for How to cure Bleeding??",
+        "I need help with How to cure Bleeding?"
+    ],
+    "responses": [
+        "Apply gentle pressure to the wound using a clean cloth. Elevate the affected area if possible. Monitor for signs of infection."
+    ],
+    "context_set": ""
+},
+
+{
+    "tag": "Eye Injury",
+    "patterns": [
+        "How do you treat an eye Injury?",
+        "what to do if i get a eye Injury?",
+        "Which medicine to take if I injured my eye?",
+        "How to cure injured eye?",
+        "Please tell me about How do you treat an eye Injury?",
+        "What should I do for How do you treat an eye Injury??",
+        "I need help with How do you treat an eye Injury?",
+        "Please tell me about what to do if i get a eye Injury?",
+        "What should I do for what to do if i get a eye Injury??",
+        "I need help with what to do if i get a eye Injury?",
+        "Please tell me about Which medicine to take if I injured my eye?",
+        "What should I do for Which medicine to take if I injured my eye??",
+        "I need help with Which medicine to take if I injured my eye?",
+        "Please tell me about How to cure injured eye?",
+        "What should I do for How to cure injured eye??",
+        "I need help with How to cure injured eye?"
+    ],
+    "responses": [
+        "Flush the affected eye with clean water or an artificial tear solution. Apply a sterile dressing or bandage to protect the eye."
+    ],
+    "context_set": ""
+},
+
+{
+    "tag": "Chemical Burn",
+    "patterns": [
+        "How do you treat a chemical burn?",
+        "what to do if i get a Chemical Burn?",
+        "Which medicine to take if I get burn due to chemicals?",
+        "How to cure Chemical Burn?",
+        "Please tell me about How do you treat a chemical burn?",
+        "What should I do for How do you treat a chemical burn??",
+        "I need help with How do you treat a chemical burn?",
+        "Please tell me about what to do if i get a Chemical Burn?",
+        "What should I do for what to do if i get a Chemical Burn??",
+        "I need help with what to do if i get a Chemical Burn?",
+        "Please tell me about Which medicine to take if I get burn due to chemicals?",
+        "What should I do for Which medicine to take if I get burn due to chemicals??",
+        "I need help with Which medicine to take if I get burn due to chemicals?",
+        "Please tell me about How to cure Chemical Burn?",
+        "What should I do for How to cure Chemical Burn??",
+        "I need help with How to cure Chemical Burn?"
+    ],
+    "responses": [
+        "Immediately rinse the skin under lukewarm water to remove the chemical. Do not apply ointments or creams. Cover with a sterile gauze or clean cloth. Seek emergency medical care, especially if the burn covers a large area."
+    ],
+    "context_set": ""
+},
+
+{
+    "tag": "Poison",
+    "patterns": [
+        "How do you treat a Poison?",
+        "what to do if i get a Poison?",
+        "Which medicine to take if I am poisoned?",
+        "How to cure Poisoning?",
+        "Please tell me about How do you treat a Poison?",
+        "What should I do for How do you treat a Poison??",
+        "I need help with How do you treat a Poison?",
+        "Please tell me about what to do if i get a Poison?",
+        "What should I do for what to do if i get a Poison??",
+        "I need help with what to do if i get a Poison?",
+        "Please tell me about Which medicine to take if I am poisoned?",
+        "What should I do for Which medicine to take if I am poisoned??",
+        "I need help with Which medicine to take if I am poisoned?",
+        "Please tell me about How to cure Poisoning?",
+        "What should I do for How to cure Poisoning??",
+        "I need help with How to cure Poisoning?"
+    ],
+    "responses": [
+        "Do not wait for symptoms to appear if you suspect poisoning. Call your local poison control center or emergency services immediately. Do not induce vomiting unless instructed by a medical professional."
+    ],
+    "context_set": ""
+},
+
+{
+    "tag": "Teeth",
+    "patterns": [
+        "How do you treat broken Teeth ?",
+        "what to do if my Teeth got broken?",
+        "Which medicine to take if I get broken teeth?",
+        "cure broken teeth?",
+        "Please tell me about How do you treat broken Teeth ?",
+        "What should I do for How do you treat broken Teeth ??",
+        "I need help with How do you treat broken Teeth ?",
+        "Please tell me about what to do if my Teeth got broken?",
+        "What should I do for what to do if my Teeth got broken??",
+        "I need help with what to do if my Teeth got broken?",
+        "Please tell me about Which medicine to take if I get broken teeth?",
+        "What should I do for Which medicine to take if I get broken teeth??",
+        "I need help with Which medicine to take if I get broken teeth?",
+        "Please tell me about cure broken teeth?",
+        "What should I do for cure broken teeth??",
+        "I need help with cure broken teeth?"
+    ],
+    "responses": [
+        "Rinse the affected area with warm salt water. Apply a topical anesthetic to reduce pain and discomfort."
+    ],
+    "context_set": ""
+},
+
+{
+    "tag": "Seizure",
+    "patterns": [
+        "How do you treat a seizure?",
+        "what to do if i feel like having a Seizure?",
+        "Which medicine to take if I get a Seizure?",
+        "How to cure Seizure?",
+        "Please tell me about How do you treat a seizure?",
+        "What should I do for How do you treat a seizure??",
+        "I need help with How do you treat a seizure?",
+        "Please tell me about what to do if i feel like having a Seizure?",
+        "What should I do for what to do if i feel like having a Seizure??",
+        "I need help with what to do if i feel like having a Seizure?",
+        "Please tell me about Which medicine to take if I get a Seizure?",
+        "What should I do for Which medicine to take if I get a Seizure??",
+        "I need help with Which medicine to take if I get a Seizure?",
+        "Please tell me about How to cure Seizure?",
+        "What should I do for How to cure Seizure??",
+        "I need help with How to cure Seizure?"
+    ],
+    "responses": [
+        "Move the person to a safe location, away from any hazards. Loosen tight clothing around their neck and wrists. Clear the area of any obstacles."
+    ],
+    "context_set": ""
+},
+
+{
+    "tag": "Head Injury",
+    "patterns": [
+        "How do you treat a head Injury?",
+        "what to do if i get a Head Injury?",
+        "Which medicine to take if I get injured in the head?",
+        "How to cure Head Injury?",
+        "Please tell me about How do you treat a head Injury?",
+        "What should I do for How do you treat a head Injury??",
+        "I need help with How do you treat a head Injury?",
+        "Please tell me about what to do if i get a Head Injury?",
+        "What should I do for what to do if i get a Head Injury??",
+        "I need help with what to do if i get a Head Injury?",
+        "Please tell me about Which medicine to take if I get injured in the head?",
+        "What should I do for Which medicine to take if I get injured in the head??",
+        "I need help with Which medicine to take if I get injured in the head?",
+        "Please tell me about How to cure Head Injury?",
+        "What should I do for How to cure Head Injury??",
+        "I need help with How to cure Head Injury?"
+    ],
+    "responses": [
+        "Apply gentle pressure to any bleeding wounds. Immobilize the affected area using a neck collar, back board, or splint."
+    ],
+    "context_set": ""
+},
+
+{
+    "tag": "Fainting",
+    "patterns": [
+        "How do you treat Faint?",
+        "what to do if i feel like Fainting?",
+        "Which medicine to take if I get a Faint?",
+        "How to cure Fainting?",
+        "Please tell me about How do you treat Faint?",
+        "What should I do for How do you treat Faint??",
+        "I need help with How do you treat Faint?",
+        "Please tell me about what to do if i feel like Fainting?",
+        "What should I do for what to do if i feel like Fainting??",
+        "I need help with what to do if i feel like Fainting?",
+        "Please tell me about Which medicine to take if I get a Faint?",
+        "What should I do for Which medicine to take if I get a Faint??",
+        "I need help with Which medicine to take if I get a Faint?",
+        "Please tell me about How to cure Fainting?",
+        "What should I do for How to cure Fainting??",
+        "I need help with How to cure Fainting?"
+    ],
+    "responses": [
+        "Lay the person down on their back, elevating their legs 12 inches or more. Loosen tight clothing around their neck and wrists."
+    ],
+    "context_set": ""
+},
+        {
+            "tag": "Headache",
+            "patterns": [
+                "How do you treat a mild Headache?",
+                "what to do if i get a mild Headache?",
+                "Which medicine to take if I have a mild headache?",
+                "How to cure a mild headache?",
+                "Please tell me about How do you treat a mild Headache?",
+                "What should I do for How do you treat a mild Headache??",
+                "I need help with How do you treat a mild Headache?",
+                "Please tell me about what to do if i get a mild Headache?",
+                "What should I do for what to do if i get a mild Headache??",
+                "I need help with what to do if i get a mild Headache?",
+                "Please tell me about Which medicine to take if I have a mild headache?",
+                "What should I do for Which medicine to take if I have a mild headache??",
+                "I need help with Which medicine to take if I have a mild headache?",
+                "Please tell me about How to cure a mild headache?",
+                "What should I do for How to cure a mild headache??",
+                "I need help with How to cure a mild headache?"
+            ],
+            "responses": [
+                "Give ibuprofen (Advil, Motrin), aspirin, or acetaminophen (Tylenol) for pain. Avoid ibuprofen and other NSAIDs if the person has heart failure or kidney failure. Do not give aspirin to a child under age 18."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Cold",
+            "patterns": [
+                "How do you treat a Cold?",
+                "what to do if i get a mild Cold?",
+                "Which medicine to take if I have a Cold?",
+                "How to cure Cold?",
+                "Please tell me about How do you treat a Cold?",
+                "What should I do for How do you treat a Cold??",
+                "I need help with How do you treat a Cold?",
+                "Please tell me about what to do if i get a mild Cold?",
+                "What should I do for what to do if i get a mild Cold??",
+                "I need help with what to do if i get a mild Cold?",
+                "Please tell me about Which medicine to take if I have a Cold?",
+                "What should I do for Which medicine to take if I have a Cold??",
+                "I need help with Which medicine to take if I have a Cold?",
+                "Please tell me about How to cure Cold?",
+                "What should I do for How to cure Cold??",
+                "I need help with How to cure Cold?"
+            ],
+            "responses": [
+                "1)Keeping hydrated is absolutely vital to help 'flush' out the cold, as well as to break down congestion and keep your throat lubricated. 2)Vitamin C is extremely helpful when fighting infection, so at the first sign of a cold be sure to increase your intake by eating plenty of berries, citrus fruits, papayas, broccoli and red peppers which will help keep you protected. 3)When it comes to combating a cold,Vitamin D is essential in helping to regulate immune response."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Rash",
+            "patterns": [
+                "How do you treat Rashes?",
+                "what to do if i get a Rash?",
+                "Which medicine to take if I have a Rash?",
+                "How to cure Rash?",
+                "Please tell me about How do you treat Rashes?",
+                "What should I do for How do you treat Rashes??",
+                "I need help with How do you treat Rashes?",
+                "Please tell me about what to do if i get a Rash?",
+                "What should I do for what to do if i get a Rash??",
+                "I need help with what to do if i get a Rash?",
+                "Please tell me about Which medicine to take if I have a Rash?",
+                "What should I do for Which medicine to take if I have a Rash??",
+                "I need help with Which medicine to take if I have a Rash?",
+                "Please tell me about How to cure Rash?",
+                "What should I do for How to cure Rash??",
+                "I need help with How to cure Rash?"
+            ],
+            "responses": [
+                "1)Olive oil helps in healing and promotes skin renewal given it is packed with vitamin E and antioxidants. It also soothes the skin and reduces itching. 2)Baking soda is useful in drying skin rashes as also in relieving itching and inflammation. 3)Aloe Vera,Thanks to its antibacterial, antifungal, anti-inflammatory and emollient properties, aloe vera is excellent for treating a number of skin ailments including rashes as also soothing the skin."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "snake bite",
+            "patterns": [
+                "How do you treat a snake bite?",
+                "what to do if i get a snake bite?",
+                "Which medicine to take if I get a snake bite?",
+                "How to cure snake bite?",
+                "i got bit by a snake",
+                "Please tell me about How do you treat a snake bite?",
+                "What should I do for How do you treat a snake bite??",
+                "I need help with How do you treat a snake bite?",
+                "Please tell me about what to do if i get a snake bite?",
+                "What should I do for what to do if i get a snake bite??",
+                "I need help with what to do if i get a snake bite?",
+                "Please tell me about Which medicine to take if I get a snake bite?",
+                "What should I do for Which medicine to take if I get a snake bite??",
+                "I need help with Which medicine to take if I get a snake bite?",
+                "Please tell me about How to cure snake bite?",
+                "What should I do for How to cure snake bite??",
+                "I need help with How to cure snake bite?",
+                "Please tell me about i got bit by a snake",
+                "What should I do for i got bit by a snake?",
+                "I need help with i got bit by a snake"
+            ],
+            "responses": [
+                "While waiting for medical help: 1)Move the person beyond striking distance of the snake. 2)Have the person lie down with wound below the heart. 3)Keep the person calm and at rest, remaining as still as possible to keep venom from spreading. 4)Cover the wound with loose, sterile bandage. 5)Remove any jewelry from the area that was bitten. 6)Remove shoes if the leg or foot was bitten."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "animal bite",
+            "patterns": [
+                "How do you treat a animal bite?",
+                "How do you treat a monkey bite?",
+                "How do you treat a dog bite?",
+                "what to do if i get a animal bite?",
+                "Which medicine to take if I get a monekey bite?",
+                "How to cure dog bite?",
+                "i got bit by a dog",
+                "Please tell me about How do you treat a animal bite?",
+                "What should I do for How do you treat a animal bite??",
+                "I need help with How do you treat a animal bite?",
+                "Please tell me about How do you treat a monkey bite?",
+                "What should I do for How do you treat a monkey bite??",
+                "I need help with How do you treat a monkey bite?",
+                "Please tell me about How do you treat a dog bite?",
+                "What should I do for How do you treat a dog bite??",
+                "I need help with How do you treat a dog bite?",
+                "Please tell me about what to do if i get a animal bite?",
+                "What should I do for what to do if i get a animal bite??",
+                "I need help with what to do if i get a animal bite?",
+                "Please tell me about Which medicine to take if I get a monekey bite?",
+                "What should I do for Which medicine to take if I get a monekey bite??",
+                "I need help with Which medicine to take if I get a monekey bite?",
+                "Please tell me about How to cure dog bite?",
+                "What should I do for How to cure dog bite??",
+                "I need help with How to cure dog bite?",
+                "Please tell me about i got bit by a dog",
+                "What should I do for i got bit by a dog?",
+                "I need help with i got bit by a dog"
+            ],
+            "responses": [
+                "1)Wash the wound with soap and warm water. 2)Gently press a clean cloth over the wound to stop the flow of blood. 3)Apply an antibacterial ointment to the wound. 4)Cover with a sterile bandage. 5)Watch for signs of infection. 6)Seek help if you suspect infection or possible exposure to rabies, or if the wound is severe."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Drowning",
+            "patterns": [
+                "What to do if someone is Drowning?",
+                "what to do if someone drowned?",
+                "What steps to take if i see a drowning person?",
+                "How to help a drowning person?",
+                "Please tell me about What to do if someone is Drowning?",
+                "What should I do for What to do if someone is Drowning??",
+                "I need help with What to do if someone is Drowning?",
+                "Please tell me about what to do if someone drowned?",
+                "What should I do for what to do if someone drowned??",
+                "I need help with what to do if someone drowned?",
+                "Please tell me about What steps to take if i see a drowning person?",
+                "What should I do for What steps to take if i see a drowning person??",
+                "I need help with What steps to take if i see a drowning person?",
+                "Please tell me about How to help a drowning person?",
+                "What should I do for How to help a drowning person??",
+                "I need help with How to help a drowning person?"
+            ],
+            "responses": [
+                "1)Place your ear next to the person's mouth and nose. Do you feel air on your cheek? 2)Look to see if the person's chest is moving.If the Person is Not Breathing, Check Pulse. 3)Check the person's pulse for 10 seconds.If There is No Pulse, Start CPR."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "CPR",
+            "patterns": [
+                "How to give CPR??",
+                "what to do in a CPR?",
+                "What steps to take in a CPR??",
+                "How to help a drowning person in CPR?",
+                "Please tell me about How to give CPR??",
+                "What should I do for How to give CPR???",
+                "I need help with How to give CPR??",
+                "Please tell me about what to do in a CPR?",
+                "What should I do for what to do in a CPR??",
+                "I need help with what to do in a CPR?",
+                "Please tell me about What steps to take in a CPR??",
+                "What should I do for What steps to take in a CPR???",
+                "I need help with What steps to take in a CPR??",
+                "Please tell me about How to help a drowning person in CPR?",
+                "What should I do for How to help a drowning person in CPR??",
+                "I need help with How to help a drowning person in CPR?"
+            ],
+            "responses": [
+                "1)For an adult or child, place the heel of one hand on the center of the chest at the nipple line. You can also push with one hand on top of the other. For an infant, place two fingers on the breastbone. 2)For an adult or child, press down at least 2 inches. Make sure not to press on ribs. For an infant, press down about 1 and 1/2 inches. Make sure not to press on the end of the breastbone. 3)Do chest compressions only, at the rate of 100-120 per minute or more. Let the chest rise completely between pushes. 4)Check to see if the person has started breathing."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Fracture",
+            "patterns": [
+                "How do you treat a Fracture?",
+                "what to do if i get a Fracture?",
+                "Which medicine to take if I have a Fracture?",
+                "How to cure a Fracture?",
+                "Please tell me about How do you treat a Fracture?",
+                "What should I do for How do you treat a Fracture??",
+                "I need help with How do you treat a Fracture?",
+                "Please tell me about what to do if i get a Fracture?",
+                "What should I do for what to do if i get a Fracture??",
+                "I need help with what to do if i get a Fracture?",
+                "Please tell me about Which medicine to take if I have a Fracture?",
+                "What should I do for Which medicine to take if I have a Fracture??",
+                "I need help with Which medicine to take if I have a Fracture?",
+                "Please tell me about How to cure a Fracture?",
+                "What should I do for How to cure a Fracture??",
+                "I need help with How to cure a Fracture?"
+            ],
+            "responses": [
+                "1)Stop any bleeding. Apply pressure to the wound with a sterile bandage, a clean cloth or a clean piece of clothing. 2)Immobilize the injured area. Don't try to realign the bone or push a bone that's sticking out back in. If you've been trained in how to splint and professional help isn't readily available, apply a splint to the area above and below the fracture sites. Padding the splints can help reduce discomfort. 3)Apply ice packs to limit swelling and help relieve pain. Don't apply ice directly to the skin. Wrap the ice in a towel, piece of cloth or some other material. 4)Treat for shock. If the person feels faint or is breathing in short, rapid breaths, lay the person down with the head slightly lower than the trunk and, if possible, elevate the legs."
+            ],
+            "context_set": ""
+        },		
+        {
+            "tag": "Fungal infection",
+            "patterns": [
+                "How do you treat fungal infection?",
+                "What are the symptoms of fungal infection?",
+                "What should I do if I have fungal infection?",
+                "Best treatment for fungal infection",
+                "Home remedies for fungal infection",
+                "Medication for fungal infection"
+            ],
+            "responses": [
+                "Apply antifungal creams such as Clotrimazole or systemic treatments like Fluconazole. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Allergy",
+            "patterns": [
+                "How do you treat allergy?",
+                "What are the symptoms of allergy?",
+                "What should I do if I have allergy?",
+                "Best treatment for allergy",
+                "Home remedies for allergy",
+                "Medication for allergy"
+            ],
+            "responses": [
+                "Use antihistamines like Loratadine or consider immunotherapy. Avoid allergens. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "GERD",
+            "patterns": [
+                "How do you treat gerd?",
+                "What are the symptoms of gerd?",
+                "What should I do if I have gerd?",
+                "Best treatment for gerd",
+                "Home remedies for gerd",
+                "Medication for gerd"
+            ],
+            "responses": [
+                "Lifestyle changes, over-the-counter antacids, and proton pump inhibitors like Omeprazole. Severe cases may require Nissen fundoplication. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Chronic cholestasis",
+            "patterns": [
+                "How do you treat chronic cholestasis?",
+                "What are the symptoms of chronic cholestasis?",
+                "What should I do if I have chronic cholestasis?",
+                "Best treatment for chronic cholestasis",
+                "Home remedies for chronic cholestasis",
+                "Medication for chronic cholestasis"
+            ],
+            "responses": [
+                "Medications like Ursodeoxycholic acid may help, with liver transplant as a potential severe case option. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Drug Reaction",
+            "patterns": [
+                "How do you treat drug reaction?",
+                "What are the symptoms of drug reaction?",
+                "What should I do if I have drug reaction?",
+                "Best treatment for drug reaction",
+                "Home remedies for drug reaction",
+                "Medication for drug reaction"
+            ],
+            "responses": [
+                "Discontinue the offending drug and treat with corticosteroids and antihistamines. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Peptic ulcer diseae",
+            "patterns": [
+                "How do you treat peptic ulcer diseae?",
+                "What are the symptoms of peptic ulcer diseae?",
+                "What should I do if I have peptic ulcer diseae?",
+                "Best treatment for peptic ulcer diseae",
+                "Home remedies for peptic ulcer diseae",
+                "Medication for peptic ulcer diseae"
+            ],
+            "responses": [
+                "Treatment varies based on specific conditions. Always consult a healthcare provider for the most accurate diagnosis and treatment options."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "AIDS",
+            "patterns": [
+                "How do you treat aids?",
+                "What are the symptoms of aids?",
+                "What should I do if I have aids?",
+                "Best treatment for aids",
+                "Home remedies for aids",
+                "Medication for aids"
+            ],
+            "responses": [
+                "Antiretroviral therapy (ART) is crucial for managing and controlling the disease. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Diabetes ",
+            "patterns": [
+                "How do you treat diabetes ?",
+                "What are the symptoms of diabetes ?",
+                "What should I do if I have diabetes ?",
+                "Best treatment for diabetes ",
+                "Home remedies for diabetes ",
+                "Medication for diabetes "
+            ],
+            "responses": [
+                "Management includes lifestyle changes, insulin injections, and oral medications like Metformin. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Gastroenteritis",
+            "patterns": [
+                "How do you treat gastroenteritis?",
+                "What are the symptoms of gastroenteritis?",
+                "What should I do if I have gastroenteritis?",
+                "Best treatment for gastroenteritis",
+                "Home remedies for gastroenteritis",
+                "Medication for gastroenteritis"
+            ],
+            "responses": [
+                "Treatment varies based on specific conditions. Always consult a healthcare provider for the most accurate diagnosis and treatment options."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Bronchial Asthma",
+            "patterns": [
+                "How do you treat bronchial asthma?",
+                "What are the symptoms of bronchial asthma?",
+                "What should I do if I have bronchial asthma?",
+                "Best treatment for bronchial asthma",
+                "Home remedies for bronchial asthma",
+                "Medication for bronchial asthma"
+            ],
+            "responses": [
+                "Management includes inhalers, corticosteroids, and avoidance of triggers. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Hypertension ",
+            "patterns": [
+                "How do you treat hypertension ?",
+                "What are the symptoms of hypertension ?",
+                "What should I do if I have hypertension ?",
+                "Best treatment for hypertension ",
+                "Home remedies for hypertension ",
+                "Medication for hypertension "
+            ],
+            "responses": [
+                "Lifestyle changes, medications like ACE inhibitors and beta blockers, and monitoring. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Migraine",
+            "patterns": [
+                "How do you treat migraine?",
+                "What are the symptoms of migraine?",
+                "What should I do if I have migraine?",
+                "Best treatment for migraine",
+                "Home remedies for migraine",
+                "Medication for migraine"
+            ],
+            "responses": [
+                "Use of medications such as triptans and preventive treatments like beta-blockers or CGRP antagonists. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Cervical spondylosis",
+            "patterns": [
+                "How do you treat cervical spondylosis?",
+                "What are the symptoms of cervical spondylosis?",
+                "What should I do if I have cervical spondylosis?",
+                "Best treatment for cervical spondylosis",
+                "Home remedies for cervical spondylosis",
+                "Medication for cervical spondylosis"
+            ],
+            "responses": [
+                "Physical therapy, pain management with NSAIDs, and in severe cases, possibly surgery. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Paralysis (brain hemorrhage)",
+            "patterns": [
+                "How do you treat paralysis (brain hemorrhage)?",
+                "What are the symptoms of paralysis (brain hemorrhage)?",
+                "What should I do if I have paralysis (brain hemorrhage)?",
+                "Best treatment for paralysis (brain hemorrhage)",
+                "Home remedies for paralysis (brain hemorrhage)",
+                "Medication for paralysis (brain hemorrhage)"
+            ],
+            "responses": [
+                "Urgent medical treatment, possibly surgery, followed by rehabilitation. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Jaundice",
+            "patterns": [
+                "How do you treat jaundice?",
+                "What are the symptoms of jaundice?",
+                "What should I do if I have jaundice?",
+                "Best treatment for jaundice",
+                "Home remedies for jaundice",
+                "Medication for jaundice"
+            ],
+            "responses": [
+                "Treatment is aimed at the underlying cause, from medication to surgery if needed. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Malaria",
+            "patterns": [
+                "How do you treat malaria?",
+                "What are the symptoms of malaria?",
+                "What should I do if I have malaria?",
+                "Best treatment for malaria",
+                "Home remedies for malaria",
+                "Medication for malaria"
+            ],
+            "responses": [
+                "Use of antimalarial medications like Chloroquine or Artemisinin-based combinations. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Chicken pox",
+            "patterns": [
+                "How do you treat chicken pox?",
+                "What are the symptoms of chicken pox?",
+                "What should I do if I have chicken pox?",
+                "Best treatment for chicken pox",
+                "Home remedies for chicken pox",
+                "Medication for chicken pox"
+            ],
+            "responses": [
+                "Symptomatic treatment with antiviral drugs and lotions to alleviate itching. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Dengue",
+            "patterns": [
+                "How do you treat dengue?",
+                "What are the symptoms of dengue?",
+                "What should I do if I have dengue?",
+                "Best treatment for dengue",
+                "Home remedies for dengue",
+                "Medication for dengue"
+            ],
+            "responses": [
+                "Symptomatic treatment with fluid management and pain relievers; severe cases require hospital care. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Typhoid",
+            "patterns": [
+                "How do you treat typhoid?",
+                "What are the symptoms of typhoid?",
+                "What should I do if I have typhoid?",
+                "Best treatment for typhoid",
+                "Home remedies for typhoid",
+                "Medication for typhoid"
+            ],
+            "responses": [
+                "Antibiotics such as Ciprofloxacin or Azithromycin. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "hepatitis A",
+            "patterns": [
+                "How do you treat hepatitis a?",
+                "What are the symptoms of hepatitis a?",
+                "What should I do if I have hepatitis a?",
+                "Best treatment for hepatitis a",
+                "Home remedies for hepatitis a",
+                "Medication for hepatitis a"
+            ],
+            "responses": [
+                "Treatment varies based on specific conditions. Always consult a healthcare provider for the most accurate diagnosis and treatment options."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Hepatitis B",
+            "patterns": [
+                "How do you treat hepatitis b?",
+                "What are the symptoms of hepatitis b?",
+                "What should I do if I have hepatitis b?",
+                "Best treatment for hepatitis b",
+                "Home remedies for hepatitis b",
+                "Medication for hepatitis b"
+            ],
+            "responses": [
+                "Antiviral medications like Tenofovir or Entecavir. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Hepatitis C",
+            "patterns": [
+                "How do you treat hepatitis c?",
+                "What are the symptoms of hepatitis c?",
+                "What should I do if I have hepatitis c?",
+                "Best treatment for hepatitis c",
+                "Home remedies for hepatitis c",
+                "Medication for hepatitis c"
+            ],
+            "responses": [
+                "Antiviral therapy with medications like Sofosbuvir and Ribavirin. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Hepatitis D",
+            "patterns": [
+                "How do you treat hepatitis d?",
+                "What are the symptoms of hepatitis d?",
+                "What should I do if I have hepatitis d?",
+                "Best treatment for hepatitis d",
+                "Home remedies for hepatitis d",
+                "Medication for hepatitis d"
+            ],
+            "responses": [
+                "Treatment with Interferon; co-infection with Hepatitis B needs simultaneous treatment. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Hepatitis E",
+            "patterns": [
+                "How do you treat hepatitis e?",
+                "What are the symptoms of hepatitis e?",
+                "What should I do if I have hepatitis e?",
+                "Best treatment for hepatitis e",
+                "Home remedies for hepatitis e",
+                "Medication for hepatitis e"
+            ],
+            "responses": [
+                "Mostly supportive care; Ribavirin may be used in severe cases. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Alcoholic hepatitis",
+            "patterns": [
+                "How do you treat alcoholic hepatitis?",
+                "What are the symptoms of alcoholic hepatitis?",
+                "What should I do if I have alcoholic hepatitis?",
+                "Best treatment for alcoholic hepatitis",
+                "Home remedies for alcoholic hepatitis",
+                "Medication for alcoholic hepatitis"
+            ],
+            "responses": [
+                "Cessation of alcohol consumption, nutritional support, and possibly corticosteroids. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Tuberculosis",
+            "patterns": [
+                "How do you treat tuberculosis?",
+                "What are the symptoms of tuberculosis?",
+                "What should I do if I have tuberculosis?",
+                "Best treatment for tuberculosis",
+                "Home remedies for tuberculosis",
+                "Medication for tuberculosis"
+            ],
+            "responses": [
+                "Long-term antibiotic therapy, typically including Isoniazid and Rifampicin. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Common Cold",
+            "patterns": [
+                "How do you treat common cold?",
+                "What are the symptoms of common cold?",
+                "What should I do if I have common cold?",
+                "Best treatment for common cold",
+                "Home remedies for common cold",
+                "Medication for common cold"
+            ],
+            "responses": [
+                "Symptomatic treatment with over-the-counter remedies and plenty of fluids. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Pneumonia",
+            "patterns": [
+                "How do you treat pneumonia?",
+                "What are the symptoms of pneumonia?",
+                "What should I do if I have pneumonia?",
+                "Best treatment for pneumonia",
+                "Home remedies for pneumonia",
+                "Medication for pneumonia"
+            ],
+            "responses": [
+                "Antibiotics, and if viral, antivirals might be prescribed. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Dimorphic hemmorhoids(piles)",
+            "patterns": [
+                "How do you treat dimorphic hemmorhoids(piles)?",
+                "What are the symptoms of dimorphic hemmorhoids(piles)?",
+                "What should I do if I have dimorphic hemmorhoids(piles)?",
+                "Best treatment for dimorphic hemmorhoids(piles)",
+                "Home remedies for dimorphic hemmorhoids(piles)",
+                "Medication for dimorphic hemmorhoids(piles)"
+            ],
+            "responses": [
+                "Treatment options include dietary changes, medications, and in severe cases, procedures like banding. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Heart attack",
+            "patterns": [
+                "How do you treat heart attack?",
+                "What are the symptoms of heart attack?",
+                "What should I do if I have heart attack?",
+                "Best treatment for heart attack",
+                "Home remedies for heart attack",
+                "Medication for heart attack"
+            ],
+            "responses": [
+                "Immediate care with aspirin and nitroglycerin, followed by procedures like angioplasty or bypass surgery if needed. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Varicose veins",
+            "patterns": [
+                "How do you treat varicose veins?",
+                "What are the symptoms of varicose veins?",
+                "What should I do if I have varicose veins?",
+                "Best treatment for varicose veins",
+                "Home remedies for varicose veins",
+                "Medication for varicose veins"
+            ],
+            "responses": [
+                "Compression stockings, sclerotherapy, or surgeries like endovenous laser therapy. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Hypothyroidism",
+            "patterns": [
+                "How do you treat hypothyroidism?",
+                "What are the symptoms of hypothyroidism?",
+                "What should I do if I have hypothyroidism?",
+                "Best treatment for hypothyroidism",
+                "Home remedies for hypothyroidism",
+                "Medication for hypothyroidism"
+            ],
+            "responses": [
+                "Daily thyroid hormone replacement therapy. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Hyperthyroidism",
+            "patterns": [
+                "How do you treat hyperthyroidism?",
+                "What are the symptoms of hyperthyroidism?",
+                "What should I do if I have hyperthyroidism?",
+                "Best treatment for hyperthyroidism",
+                "Home remedies for hyperthyroidism",
+                "Medication for hyperthyroidism"
+            ],
+            "responses": [
+                "Treatments include antithyroid medications, radioactive iodine, and possibly surgery. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Hypoglycemia",
+            "patterns": [
+                "How do you treat hypoglycemia?",
+                "What are the symptoms of hypoglycemia?",
+                "What should I do if I have hypoglycemia?",
+                "Best treatment for hypoglycemia",
+                "Home remedies for hypoglycemia",
+                "Medication for hypoglycemia"
+            ],
+            "responses": [
+                "Immediate intake of fast-acting sugars followed by a longer-acting carbohydrate to stabilize blood sugar levels. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Osteoarthristis",
+            "patterns": [
+                "How do you treat osteoarthristis?",
+                "What are the symptoms of osteoarthristis?",
+                "What should I do if I have osteoarthristis?",
+                "Best treatment for osteoarthristis",
+                "Home remedies for osteoarthristis",
+                "Medication for osteoarthristis"
+            ],
+            "responses": [
+                "NSAIDs for pain relief, physical therapy, and if necessary, joint replacement surgery. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Arthritis",
+            "patterns": [
+                "How do you treat arthritis?",
+                "What are the symptoms of arthritis?",
+                "What should I do if I have arthritis?",
+                "Best treatment for arthritis",
+                "Home remedies for arthritis",
+                "Medication for arthritis"
+            ],
+            "responses": [
+                "Treatment may include NSAIDs, DMARDs, and physical therapy to manage symptoms. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "(vertigo) Paroymsal  Positional Vertigo",
+            "patterns": [
+                "How do you treat (vertigo) paroymsal  positional vertigo?",
+                "What are the symptoms of (vertigo) paroymsal  positional vertigo?",
+                "What should I do if I have (vertigo) paroymsal  positional vertigo?",
+                "Best treatment for (vertigo) paroymsal  positional vertigo",
+                "Home remedies for (vertigo) paroymsal  positional vertigo",
+                "Medication for (vertigo) paroymsal  positional vertigo"
+            ],
+            "responses": [
+                "Treatment varies based on specific conditions. Always consult a healthcare provider for the most accurate diagnosis and treatment options."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Acne",
+            "patterns": [
+                "How do you treat acne?",
+                "What are the symptoms of acne?",
+                "What should I do if I have acne?",
+                "Best treatment for acne",
+                "Home remedies for acne",
+                "Medication for acne"
+            ],
+            "responses": [
+                "Use of topical agents like benzoyl peroxide, oral antibiotics, and for severe cases, isotretinoin. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Urinary tract infection",
+            "patterns": [
+                "How do you treat urinary tract infection?",
+                "What are the symptoms of urinary tract infection?",
+                "What should I do if I have urinary tract infection?",
+                "Best treatment for urinary tract infection",
+                "Home remedies for urinary tract infection",
+                "Medication for urinary tract infection"
+            ],
+            "responses": [
+                "Treatment with antibiotics such as Trimethoprim and plenty of fluids. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Psoriasis",
+            "patterns": [
+                "How do you treat psoriasis?",
+                "What are the symptoms of psoriasis?",
+                "What should I do if I have psoriasis?",
+                "Best treatment for psoriasis",
+                "Home remedies for psoriasis",
+                "Medication for psoriasis"
+            ],
+            "responses": [
+                "Topical treatments, phototherapy, and in more severe cases, systemic medications like Methotrexate. Consult a healthcare provider for personalized treatment."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "Impetigo",
+            "patterns": [
+                "How do you treat impetigo?",
+                "What are the symptoms of impetigo?",
+                "What should I do if I have impetigo?",
+                "Best treatment for impetigo",
+                "Home remedies for impetigo",
+                "Medication for impetigo"
+            ],
+            "responses": [
+                "Treatment varies based on specific conditions. Always consult a healthcare provider for the most accurate diagnosis and treatment options."
+            ],
+            "context_set": ""
+        }
+    ]
+}
