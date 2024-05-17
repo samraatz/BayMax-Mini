@@ -6,7 +6,10 @@
 
 <h1>Medical Assistance Bot</h1>
 
-<p>This repository contains a Python-based project aimed at creating a small, fast, and efficient medical assistance bot that provides better assistance than voice command help from Google. The project uses a  Random forest classifier for diagnosis and a DNN using BOW ( bag of words ) trained on an intents json file. The project leveraged a LLaMA 3B 7B 8-bit quantized model to prompt engineer as to generate missing responses, and create extra strings for pattern matching to increase the accuracy of disease classification in the JSON dataset DNN. Additionally, I scraped disease classifications from the classification dataset and generated tags, strings, patterns, and responses to add to the intents file in order for it to also be able to provide what the medicines and treatments may be like after diagnosis is done.</p>
+<p>This repository contains a Python-based project aimed at creating a small, fast, and efficient medical assistance bot that provides better assistance than voice command help from Google. The project uses a  Random forest classifier for diagnosis and a DNN using BOW ( bag of words ) trained on an intents json file. The project leveraged a LLaMA 3B 7B 8-bit quantized model to prompt engineer as to generate missing responses, and create extra strings for pattern matching to increase the accuracy of disease classification in the JSON dataset DNN. Additionally, I scraped disease classifications from the classification dataset and generated tags, strings, patterns, and responses to add to the intents file in order for it to also be able to provide what the medicines and treatments may be like after diagnosis is done.
+
+    <img src="https://github.com/samraatz/BayMax-Mini/blob/main/home.png" alt="home page width="500">
+</p>
 
 <h2>Table of Contents</h2>
 <ul>
